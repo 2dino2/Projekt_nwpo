@@ -1,2 +1,3 @@
 # Projekt_nwpo
-projekt nwpo. Michał 23934
+Michał 23934 
+Grupa C2
